@@ -32,12 +32,12 @@
 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://seekicon.com/free-icon-download/eclipse_2.svg" alt="eclipse" width="40" height="40"/> </a> 
 
 </p>
-## 
+
 <h1 align="center">Github Stats</h1>
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=roshanchaudhari7&theme=highcontrast)](https://github.com/roshanchaudhari7)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=roshanchaudhari7&theme=highcontrast)](https://github.com/roshanchaudhari7/github-readme-streak-stats)
 
  </div>
  
