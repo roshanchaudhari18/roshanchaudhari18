@@ -42,5 +42,5 @@
  </div>
  
 <img align="left" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roshanchaudhari7&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanchaudhari&layout=compact&theme=dark" width="46%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanchaudhari7&layout=compact&theme=dark" width="46%" />
 <br>
