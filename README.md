@@ -10,7 +10,7 @@
 - 💬 Ask me about React js, JavaScript, Data Structures and Algorithms.
 - 📫 How to reach me: [roshanchaudhari1807@gmail.com](mailto:roshanchaudhari1807@gmail.com)
 
-## How to reach me:
+## How to reach me
 <p align="left">
 <a href="https://linkedin.com/in/roshanchaudhari18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshanchaudhari18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/RoshanChaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RoshanChaudhari" height="30" width="40" /></a>
@@ -28,9 +28,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
-<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" alt="vscode" width="40" height="40"/> </a> &nbsp;
-<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://seekicon.com/free-icon-download/eclipse_2.svg" alt="eclipse" width="40" height="40"/> </a> 
-
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" alt="vscode" width="40" height="40"/> </a> 
 </p>
 
 <h1 align="center">Github Stats</h1>
