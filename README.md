@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I'm currently working on improving my skills in ReactJs and NodeJs.
-- 🌱 I’m currently learning the MERN Stack.
+- 🌱 I’m currently learning FullStack Development @ AccioJob.
 - 👯 I'm looking to collaborate on MERN stack projects to gain practical experience and contribute to open source projects.
 - 💬 Ask me about React js, JavaScript, Data Structures and Algorithms.
 - 📫 How to reach me: [roshanchaudhari1807@gmail.com](mailto:roshanchaudhari1807@gmail.com)
