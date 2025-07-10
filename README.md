@@ -8,17 +8,15 @@
 - 🌱 I’m currently learning FullStack Development @ AccioJob.
 - 👯 I'm looking to collaborate on MERN stack projects to gain practical experience and contribute to open source projects.
 - 💬 Ask me about React js, JavaScript, Data Structures and Algorithms.
-- 📫 How to reach me: [roshanchaudhari1807@gmail.com](mailto:roshanchaudhari1807@gmail.com)
+- ⚡  My Coding profiles: [Leetcode](https://leetcode.com/roshanchaudhari7/) , [GeeksForGeeks](https://auth.geeksforgeeks.org/user/roshan_04/profile) , [HackerRank](https://www.hackerrank.com/roshanchaudhari3)
 
-## How to reach me
+## 🌐 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/roshanchaudhari18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshanchaudhari18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/RoshanChaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RoshanChaudhari" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/roshanchaudhari3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="roshanchaudhari3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/roshan_04/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="roshan_04/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshanchaudhari18" target="blank"><img align="center" src="https://img.icons8.com/color/8x/000000/linkedin.png" alt="Linkedin" height="30" width="40" /></a>
+<a href="mailto:roshanchaudhari1807@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
+## 🚀 Languages and Tools
 <p align="left"> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
