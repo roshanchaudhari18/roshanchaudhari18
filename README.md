@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-![](https://komarev.com/ghpvc/?username=roshanchaudhari7&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=roshanchaudhari18&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
 - 🔭 I'm currently working on improving my skills in ReactJs and NodeJs.
@@ -33,10 +33,10 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=roshanchaudhari7&theme=highcontrast)](https://github.com/roshanchaudhari7/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=roshanchaudhari18&theme=highcontrast)](https://github.com/roshanchaudhari18/github-readme-streak-stats)
 
  </div>
  
-<img align="left" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roshanchaudhari7&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanchaudhari7&layout=compact&theme=dark" width="46%" />
+<img align="left" alt="Roshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roshanchaudhari18&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanchaudhari18&layout=compact&theme=dark" width="46%" />
 <br>
